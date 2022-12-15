@@ -45,5 +45,6 @@ Profile.propTypes = {
     likes: PropTypes.number.isRequired,
   }),
 };
+// check git problems
 
 export default Profile;
